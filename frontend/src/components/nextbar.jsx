@@ -4,4 +4,4 @@ export function nextbar(){
             <h1>Next Bar</h1>
         </div>
     );
-}
+} 
